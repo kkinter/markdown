@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "5cbbb5726963574b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a63928cfa385700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b4ee7ff01dea9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. What is JSX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fa327c013798f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Using Props.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "342a4231cfd86c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Looping Through an Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb82612b1ecef59d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4d9a12ca28b5a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Handling Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53c06af370bc2aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Working with Forms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2777cb6efeba827d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. What is UseEffects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6ced88661fad990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configure React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "995ee4fbf69b0d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18. Routing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a65356cf8f2d195a",
+    "type": "split",
+    "children": [
+      {
+        "id": "718265709b92a1ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4cbdfdd0b31280",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9683fffca3ace0c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5c0d5b0816dfd48",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4d1036454f031a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d169bf82c9a2c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03dbaf154f437c1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "18. Routing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "529c11e418a9c786",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "18. Routing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d1371ee41a8765",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbc02196dc653ced",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "18. Routing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "995ee4fbf69b0d72",
+  "lastOpenFiles": [
+    "Configure React.md",
+    "10. What is UseEffects.md",
+    "9. Working with Forms.md",
+    "8. Handling Events.md",
+    "7. State.md",
+    "6. Looping Through an Array.md",
+    "5. Using Props.md",
+    "3. What is JSX.md"
+  ]
+}
