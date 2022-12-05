@@ -1,6 +1,7 @@
-1. nodejs 
+1. nodejs
 2. `npm init -y`
 3. `npm install react react-dom`
+
 ```bash
 $ npm install react react-dom
 
@@ -8,6 +9,7 @@ added 5 packages, and audited 6 packages in 946ms
 
 found 0 vulnerabilities
 ```
+
 ```bash
 $ npm install react react-dom
 
@@ -26,9 +28,8 @@ added 304 packages, and audited 310 packages in 21s
 found 0 vulnerabilities
 ```
 
-
 ```bash
-$ npm install @babel/core @babel/preset-env @babel/preset-react babel-loader      
+$ npm install @babel/core @babel/preset-env @babel/preset-react babel-loader
 
 up to date, audited 465 packages in 1s
 
@@ -38,4 +39,9 @@ up to date, audited 465 packages in 1s
 found 0 vulnerabilities
 
 
+```
+
+```
+found 0
+Corey Schafer
 ```
