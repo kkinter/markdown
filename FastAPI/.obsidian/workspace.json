@@ -1,36 +1,76 @@
 {
   "main": {
-    "id": "5cbbb5726963574b",
+    "id": "83df509c93043671",
     "type": "split",
     "children": [
       {
-        "id": "5668e46f5e72d368",
+        "id": "e1405cd6cde17902",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4ea9671c4dda16",
+            "id": "409ee512ffe77a2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Config FastAPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "708bde26142c2271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Openapi and status code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0ca28b126a1c320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Quick note on async.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aba14e88e15b903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제파일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a65356cf8f2d195a",
+    "id": "ed09c27a68e64a6f",
     "type": "split",
     "children": [
       {
-        "id": "718265709b92a1ac",
+        "id": "b62dee03d87fc9a0",
         "type": "tabs",
         "children": [
           {
-            "id": "5a4cbdfdd0b31280",
+            "id": "229d2e1fdc0c323d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,7 +80,7 @@
             }
           },
           {
-            "id": "9683fffca3ace0c0",
+            "id": "1ffed49752c784ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,7 +95,7 @@
             }
           },
           {
-            "id": "c5c0d5b0816dfd48",
+            "id": "746a54913319f6db",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,22 +106,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "4d1036454f031a1f",
+    "id": "8bc83336de149996",
     "type": "split",
     "children": [
       {
-        "id": "8d169bf82c9a2c96",
+        "id": "71689d94ea6c7981",
         "type": "tabs",
         "children": [
           {
-            "id": "03dbaf154f437c1a",
+            "id": "d657c47d155831f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +135,19 @@
             }
           },
           {
-            "id": "529c11e418a9c786",
+            "id": "abf60846d52968e7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "무제파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e2d1371ee41a8765",
+            "id": "39a4a1044ba41e4c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +158,13 @@
             }
           },
           {
-            "id": "bbc02196dc653ced",
+            "id": "a72d1358d5c87449",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제파일.md"
+              }
             }
           }
         ]
@@ -129,16 +174,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d4ea9671c4dda16",
+  "active": "4aba14e88e15b903",
   "lastOpenFiles": [
-    "3. What is JSX.md",
-    "Configure React.md",
-    "18. Routing.md",
-    "10. What is UseEffects.md",
-    "9. Working with Forms.md",
-    "8. Handling Events.md",
-    "7. State.md",
-    "6. Looping Through an Array.md",
-    "5. Using Props.md"
+    "3. Quick note on async.md",
+    "2. Openapi and status code.md",
+    "1. Config FastAPI.md"
   ]
 }
